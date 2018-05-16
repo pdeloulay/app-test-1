@@ -13,7 +13,7 @@ import static io.vertx.core.http.HttpHeaders.CONTENT_TYPE;
 
 public class HttpApplication extends AbstractVerticle {
 
-  private static final String template = "Bonjour, %s!";
+  private static final String template = "Bonjour 2, %s!";
 
   private boolean online = false;
 
